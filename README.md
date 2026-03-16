@@ -38,9 +38,9 @@ Example test file included in the project:
 ```
 example_lotto.jpg
 
-<img src="example_lotto.jpg" alt="example lotto" width="400" />
-```
 
+```
+<img src="example_lotto.jpg" alt="example lotto" width="400" />
 ---
 
 ## Example Output
